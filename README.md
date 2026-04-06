@@ -5,7 +5,7 @@
 * Melissa Palacios
 * Diego Valencia
 * Waldor Drada
-* **Jorge Andrés Rivas**
+* Jorge Andrés Rivas
 
 ## Descripción del Proyecto
 
